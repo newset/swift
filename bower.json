@@ -1,0 +1,21 @@
+{
+  "name": "swift",
+  "version": "1.0.0",
+  "authors": [
+    "Insane <luojieyy@gmail.com>"
+  ],
+  "description": "best framework for creating amazing angularjs apps",
+  "main": "swift.js",
+  "keywords": [
+    "swift",
+    "angularjs"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
